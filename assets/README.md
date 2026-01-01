@@ -1,5 +1,5 @@
 # Hana El-Ashry — Website
-
+هنا العشرى
 This repo contains a simple bilingual (Arabic / English) static website for the law office "Hana El-Ashry" ready to be published to Netlify or GitHub Pages.
 
 Deploy to Netlify (recommended):
